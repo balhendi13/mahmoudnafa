@@ -1,0 +1,13 @@
+mahmoudnafa.com/
+├── index.html                 # Homepage (Author bio)
+├── audiobook.html            # Hidden audio book page
+├── css/
+│   └── style.css            # Styles
+├── js/
+│   └── main.js              # JavaScript
+├── audio/                   # Your MP3 files
+│   ├── chapter1.mp3
+│   ├── chapter2.mp3
+│   └── ...
+├── images/                  # Author photos, book covers
+└── .htaccess               # For hiding/protecting pages
